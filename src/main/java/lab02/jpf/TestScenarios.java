@@ -2,7 +2,8 @@ package lab02.jpf;
 
 import gov.nasa.jpf.vm.Verify;
 
-public class TestScenarios {
+public class
+TestScenarios {
 
 	static class Worker extends Thread {
 		protected void log(String msg) {
